@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 flask = "*"
 flask-restplus = "*"
+requests = "*"
+pygithub = "*"
+gitpython = "*"
 
 [dev-packages]
 
